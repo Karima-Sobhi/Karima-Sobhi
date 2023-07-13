@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karima-Sobhi
+# - 👋 Hi, I’m @Karima-Sobhi
 - 👀 I’m interested in learning new things specially mobile apps 
 - 🌱 I’m currently learning computer science and software engineering
 <!---
